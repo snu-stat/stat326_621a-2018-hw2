@@ -1,1 +1,2 @@
-**won-j**: Git and GitHub has a steep learning curve  
+**Minje**: Git and GitHub has a steep learning curve
+staging area

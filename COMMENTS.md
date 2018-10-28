@@ -1,1 +1,1 @@
-**won-j**: Git and GitHub has a steep learning curve  
+**Heeyeon Yoo**: git staging area
